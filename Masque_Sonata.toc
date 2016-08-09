@@ -1,0 +1,8 @@
+﻿## Interface: 70000
+## Title: Masque |cffffc168Sonata|r
+## Notes: Clean Masque button skin
+## Version: 1.0.0
+## Author: Sonaza
+## Dependencies: Masque
+
+Sonata.lua
