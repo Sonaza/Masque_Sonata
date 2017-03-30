@@ -1,7 +1,7 @@
-﻿## Interface: 70000
+﻿## Interface: 70200
 ## Title: Masque |cffffc168Sonata|r
 ## Notes: Clean Masque button skin
-## Version: 1.0.0
+## Version: 1.0.1
 ## Author: Sonaza
 ## Dependencies: Masque
 
