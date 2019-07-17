@@ -8,3 +8,6 @@ Masque: Sonata is dependant on Masque which you can download from [Curse](https:
 
 ## Usage
 You must install Masque first. Then in game you can configure the skin for Masque compatible addons via the Masque options panel available by typing in /masque.
+
+## License
+Masque: Sonata is licensed under MIT license. See the file LICENSE.md for details.

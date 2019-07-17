@@ -1,3 +1,6 @@
+## 1.0.3
+* TOC bump for patch 8.2.0.
+
 ## 1.0.2
 * Updated for Battle for Azeroth.
 

@@ -1,8 +1,8 @@
 ﻿------------------------------------------------------------
--- Masque: Sonata by Sonaza
--- All rights reserved
--- http://sonaza.com
-------------------------------------------------------------
+-- Masque: Sonata by Sonaza (https://sonaza.com)
+-- Licensed under MIT License
+-- See attached license text in file LICENSE.md
+-------------------------------------------------------------
 
 local Masque = LibStub("Masque")
 if not Masque then return end
@@ -12,7 +12,7 @@ Masque:AddSkin("Sonaza: Sonata",
 	Author = "Sonata",
 	Version = "1.0.0",
 	Shape = "Square",
-	Masque_Version = 70000,
+	Masque_Version = 80200,
 	
 	Backdrop = {
 		Width = 38,
